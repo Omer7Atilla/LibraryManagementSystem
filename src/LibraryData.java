@@ -1,0 +1,4 @@
+
+interface LibraryData {
+	double calculateCost();
+}
